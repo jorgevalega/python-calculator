@@ -1,6 +1,6 @@
 # Python Calculator with CustomTkinter
 
-![Calculator Screenshot](screenshot_01.png) 
+![Calculator Screenshot](screenshot.png) 
 
 A modern GUI calculator built with Python and CustomTkinter, featuring both basic and advanced operations with clean, maintainable code.
 
