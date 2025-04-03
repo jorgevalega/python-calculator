@@ -1,7 +1,6 @@
 # Python Calculator with CustomTkinter
 
 ![Calculator Screenshot](screenshot_01.png) 
-*(Replace with your actual screenshot path)*
 
 A modern GUI calculator built with Python and CustomTkinter, featuring both basic and advanced operations with clean, maintainable code.
 
